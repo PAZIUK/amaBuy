@@ -2,7 +2,7 @@
 
 ### About <br/>
 
-The website was created by Serhiy Paziuk for his portfolio. <br/>
+Welcome to amaBuy, your one-stop destination for all your shopping needs. We offer a wide range of products in electronics. Our user-friendly interface makes it easy to browse and shop, and our secure payment options ensure a safe and hassle-free shopping experience. <br/>
 
 ## For creating were used <br/>
 
