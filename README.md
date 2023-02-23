@@ -1,4 +1,4 @@
-# amaBuy (PHP) - Project Description <br>
+# amaBuy - Project Description <br>
 
 ### About <br/>
 
